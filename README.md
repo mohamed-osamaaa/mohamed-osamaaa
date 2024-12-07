@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
-<h3 align="center">Backend Developer || NodeJS (ExpressJS)</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-osamaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-osamaaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS-ExpressJS**
+- 🌱 I’m currently learning **TypeScript (TS) - NestJS - Next.js**
 
-- 💬 Ask me about **Backend Developer || NodeJS (ExpressJS)**
+- 💬 Ask me about **MERN Stack Developer**
 
 - 📫 How to reach me **m01025926249@gmail.com**
 
