@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently a **university student**<br><br>- 🌱 I’m currently learning **NestJS**<br><br>- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1W089jat_B680s-C9SAF5gEKTNm8FOUzR/view?usp=sharing" target="_blank">my resume</a><br><br>- 💬 Ask me about **Node.js, Express.js, React, and similar technologies...**<br><br>- 📫 How to reach me **m01025926249@gmail.com**<br><br>- ⚡ Fun fact **I am funny**
+- 🔭 I’m currently a **university student**<br><br>- 🌱 I’m currently learning **NestJS**<br><br>- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1UZemqCybwYldUrDEBqga7SZo6sngmvRi/view?usp=sharing" target="_blank">my resume</a><br><br>- 💬 Ask me about **Node.js, Express.js, React, and similar technologies...**<br><br>- 📫 How to reach me **m01025926249@gmail.com**<br><br>- ⚡ Fun fact **I am funny**
 
 
 ## 🌐 Socials:
