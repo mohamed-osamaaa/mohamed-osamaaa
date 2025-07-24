@@ -4,7 +4,17 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-osama-864025289/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-osama-864025289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="28">
+  </a>
+  <a href="https://codeforces.com/profile/Flash__">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white&labelColor=1F8ACB" alt="Codeforces" height="28">
+  </a>
+  <a href="https://leetcode.com/u/Mohamed_Osama_95/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" height="28">
+  </a>
+</p>
  
 
 # 💻 Tech Stack:
